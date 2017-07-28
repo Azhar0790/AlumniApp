@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Aludent</string>
+    <string name="app_id">1187613644638341</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_item_1">Home</string>
+    <string name="navigation_item_2">Events</string>
+    <string name="starred_string">Starred</string>
+    <string name="inbox_string">Inbox</string>
+    <string name="sent_mail_string">Sent mail</string>
+    <string name="draft_string">Drafts</string>
+    <string name="subheader">Subheader</string>
+    <string name="trash_string">Trash</string>
+    <string name="all_mail_string">All mails</string>
+    <string name="spam_string">Spams</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="description_student">Hardworking, dedicated and deserving but needs money for day to day petty expensive to continue education.</string>
+    <string name="description_ex_student">Have a career and are somewhat successful in life. Also can help in building students career and provide financial help.</string>
+    <string name="hint_name">Username</string>
+    <string name="hint_dob">Date of birth</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_edu">Education qualification</string>
+    <string name="hint_work_ex">Work Experience</string>
+    <string name="hint_hobbies">Hobbies</string>
+    <string name="hint_talent">Talent</string>
+    <string name="hint_achievements">Achievements</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_phone">Enter 10 digit number</string>
+    <string name="err_msg_edu">Enter the education</string>
+    <string name="err_msg_work_ex">Enter your work experience</string>
+    <string name="err_msg_hobbies">Enter your hobbies</string>
+    <string name="err_msg_talent">Enter your talents</string>
+    <string name="err_msg_acievements">Enter your Achievements</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="err_msg_report">Enter some text</string>
+
+    <string name="profile_form_student_radio">Student - Currently studying in any academic course</string>
+    <string name="profile_form_ex_student_radio">Ex-Student - Already passed out and working currently</string>
+    <string name="education_qualification">Please add your education qualification in serial order of latest being first</string>
+    <string name="work_experience">Please add your work experience in serial order of latest being first</string>
+    <string name="acheivements">Your hobbies/talents and achievements makes you a unique person thereby helping others to develop an interest in you and bond personally to you.</string>
+    <string name="connections">Seek to endorse yourself from whom so ever, who has met you personally. More the people endorse you more the people trust you with the money.</string>
+    <string name="about_us_1">             Education is a tough journey. Getting in to a good collage does not mean the end of our needs. There are regular small expenses which are required on day today basis to continue studies, may it be buying pen, pencil, photocopies or paying examination fees, These pinch a lot to a good deserving but economically week student. And this is how their focus gets diverted from studies to earning money making by doing meager works ( Pizza boy, waiter, insurance seller..etc).
+        </string>
+    <string name="about_us_2">We here at "Aludent" ( Alumni + Student ) help these students to get in touch with Alumni passed out from the same course and now successful in life. It is very well possible with the help of technologies and social networks available. Alumni are ready to help such students as they can relate with them and get a chance to build a cordial relationship with young students. Amount of contribution from alumni can be as low as Rs 1 /- with complete anonymity.</string>
+    <string name="about_us_3">            With such contributions student feel secured and guided to complete their studies and choose a successful career ahead.Please feel free to get in touch with us at
+   </string>
+    <string name="note_raise_fund_point1">1.You cannot view more money request until proof of previous expenses are submitted.
+</string>
+      <string name="note_raise_fund_point2">2.You cannot run more than 3 request at a time.
+</string>
+      <string name="note_raise_fund_point3">
+3.If requirements met before the expiry, funds can be withdrawn fully. Else you have to wait till expiry.
+</string>
+      <string name="note_raise_fund_point4">4.You should have minimum 10 endoresments to be able to put new requests.
+</string>
+
+</resources>

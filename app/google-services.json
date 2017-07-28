@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "697992644305",
+    "project_id": "aludent-149912"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697992644305:android:6c3aa98959c4c335",
+        "android_client_info": {
+          "package_name": "com.sarps.alumni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697992644305-rlgnio6phfkq8jjcgkcmraegansa4tqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarps.alumni",
+            "certificate_hash": "7337B1B40CB5AA8F0023D48E8B7698E69854097B"
+          }
+        },
+        {
+          "client_id": "697992644305-v7jgvjqcukahmorih2c3scf3mce1ni3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYqrwJzz7WYgaEseMWbkJgExnbW7_yIVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

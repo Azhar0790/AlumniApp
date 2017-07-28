@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item android:title="">-->
+        <!--<menu>-->
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_profile"
+                    android:checked="false"
+                    android:icon="@drawable/profile"
+                    android:title="My Profile" />
+                <item
+                    android:id="@+id/nav_education"
+                    android:checked="false"
+                    android:icon="@drawable/books"
+                    android:title="Education" />
+                <item
+                    android:id="@+id/nav_experience"
+                    android:checked="false"
+                    android:icon="@drawable/tie"
+                    android:title="Experience" />
+                <item
+                    android:id="@+id/nav_achieve"
+                    android:checked="false"
+                    android:icon="@drawable/trophy"
+                    android:title="Achievements" />
+                <item
+                    android:id="@+id/nav_mentor"
+                    android:checked="false"
+                    android:icon="@drawable/connection"
+                    android:title="Connections" />
+                <item
+                    android:id="@+id/nav_raise_funds"
+                    android:checked="false"
+                    android:icon="@drawable/dollar"
+                    android:title="Raise Money" />
+                <item
+                    android:id="@+id/nav_raise_funds_list"
+                    android:checked="false"
+                    android:icon="@drawable/dollar"
+                    android:title="Raise Money" />
+                <item
+                    android:id="@+id/nav_saved_request"
+                    android:checked="false"
+                    android:icon="@drawable/ic_send_black"
+                    android:title="Saved Request" />
+                <item
+                    android:id="@+id/nav_acnt_transaction"
+                    android:checked="false"
+                    android:icon="@drawable/bank"
+                    android:title="Account" />
+
+                <item
+                    android:id="@+id/nav_about_us"
+                    android:checked="false"
+                    android:icon="@drawable/ic_error_black"
+                    android:title="About us" />
+                <item
+                    android:id="@+id/nav_Logout"
+                    android:checked="false"
+                    android:icon="@drawable/door"
+                    android:title="Logout" />
+            </group>
+
+        <!--</menu>-->
+    <!--</item>-->
+</menu>

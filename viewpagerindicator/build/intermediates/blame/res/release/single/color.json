@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\src\\main\\res\\color\\vpi__light_theme.xml"
+    }
+]

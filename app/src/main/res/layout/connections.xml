@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/tv_t1"
+    android:orientation="vertical">
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="10dp"
+       android:layout_marginBottom="10dp"
+       android:id="@+id/ll_classmates"
+       android:orientation="horizontal">
+       <ImageView
+           android:layout_width="40dp"
+           android:layout_height="40dp"
+           android:gravity="center_vertical"
+           android:layout_gravity="center"
+           android:layout_marginRight="10dp"
+          android:src="@drawable/classmates"
+           />
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Classmates"
+           android:layout_gravity="center"
+           android:gravity="center_vertical"
+           android:textSize="@dimen/text_size"
+           />
+
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="end"
+           android:layout_gravity="center"
+           android:id="@+id/tv_c_count"
+           android:textSize="@dimen/text_size"/>
+   </LinearLayout>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="10dp"
+       android:layout_marginBottom="10dp"
+       android:id="@+id/ll_clgmates"
+       android:orientation="horizontal">
+       <ImageView
+           android:layout_width="40dp"
+           android:layout_height="40dp"
+           android:gravity="center_vertical"
+           android:layout_gravity="center"
+           android:layout_marginRight="10dp"
+           android:src="@drawable/collegemates"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Collegemates"
+           android:layout_gravity="center"
+           android:gravity="center_vertical"
+           android:textSize="@dimen/text_size"
+           />
+
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="end"
+           android:layout_gravity="center"
+           android:id="@+id/tv_cg_count"
+           android:textSize="@dimen/text_size"/>
+   </LinearLayout>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="10dp"
+       android:layout_marginBottom="10dp"
+       android:id="@+id/ll_snr"
+       android:orientation="horizontal">
+       <ImageView
+           android:layout_width="40dp"
+           android:layout_height="40dp"
+           android:gravity="center_vertical"
+           android:layout_gravity="center"
+           android:layout_marginRight="10dp"
+           android:src="@drawable/senior"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Senior"
+           android:layout_gravity="center"
+           android:gravity="center_vertical"
+           android:textSize="@dimen/text_size"
+           />
+
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="end"
+           android:layout_gravity="center"
+           android:id="@+id/tv_s_count"
+           android:textSize="@dimen/text_size"/>
+   </LinearLayout>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="10dp"
+       android:layout_marginBottom="10dp"
+       android:id="@+id/ll_mntr"
+       android:orientation="horizontal">
+       <ImageView
+           android:layout_width="40dp"
+           android:layout_height="40dp"
+           android:gravity="center_vertical"
+           android:layout_gravity="center"
+           android:layout_marginRight="10dp"
+           android:src="@drawable/mentor"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Mentor"
+           android:layout_gravity="center"
+           android:gravity="center_vertical"
+           android:textSize="@dimen/text_size"
+           />
+
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="end"
+           android:layout_gravity="center"
+           android:id="@+id/tv_m_count"
+           android:textSize="@dimen/text_size"/>
+   </LinearLayout>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="10dp"
+       android:layout_marginBottom="10dp"
+       android:id="@+id/ll_angel"
+       android:orientation="horizontal">
+       <ImageView
+           android:layout_width="40dp"
+           android:layout_height="40dp"
+           android:gravity="center_vertical"
+           android:layout_gravity="center"
+           android:layout_marginRight="10dp"
+           android:src="@drawable/angel"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Angel"
+           android:layout_gravity="center"
+           android:gravity="center_vertical"
+           android:textSize="@dimen/text_size"
+           />
+
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="end"
+           android:layout_gravity="center"
+           android:id="@+id/tv_a_count"
+           android:textSize="@dimen/text_size"/>
+   </LinearLayout>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="10dp"
+       android:layout_marginBottom="10dp"
+       android:id="@+id/ll_nurture"
+       android:orientation="horizontal">
+       <ImageView
+           android:layout_width="40dp"
+           android:layout_height="40dp"
+           android:gravity="center_vertical"
+           android:layout_gravity="center"
+           android:layout_marginRight="10dp"
+           android:src="@drawable/nurture"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Nurture"
+           android:layout_gravity="center"
+           android:gravity="center_vertical"
+           android:textSize="@dimen/text_size"
+           />
+
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="end"
+           android:layout_gravity="center"
+           android:id="@+id/tv_n_count"
+           android:textSize="@dimen/text_size"/>
+   </LinearLayout>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="10dp"
+       android:layout_marginBottom="10dp"
+       android:id="@+id/ll_endoresment"
+       android:orientation="horizontal">
+       <ImageView
+           android:layout_width="40dp"
+           android:layout_height="40dp"
+           android:gravity="center_vertical"
+           android:layout_gravity="center"
+           android:layout_marginRight="10dp"
+           android:src="@drawable/endorsement"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Endorsement"
+           android:layout_gravity="center"
+           android:gravity="center_vertical"
+           android:textSize="@dimen/text_size"
+           />
+
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="end"
+           android:layout_gravity="center"
+           android:id="@+id/tv_e_count"
+           android:textSize="@dimen/text_size"/>
+   </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_t1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/seek"
+        android:layout_marginTop="10dp"
+        android:text="@string/connections"
+        android:textSize="@dimen/text_size" />
+
+    <Button
+        android:id="@+id/seek"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/colorPrimary"
+        android:background="@drawable/custom_button"
+        android:text="Seek Endorsement"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

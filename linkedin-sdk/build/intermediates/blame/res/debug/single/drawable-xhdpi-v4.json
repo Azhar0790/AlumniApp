@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Azhar\\Android App Projects\\LinkedinIntegration\\linkedin-sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Azhar\\Android App Projects\\LinkedinIntegration\\linkedin-sdk\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Azhar\\Android App Projects\\Alumni App\\linkedin-sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Azhar\\Android App Projects\\Alumni App\\linkedin-sdk\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LinkedinIntegration\\linkedin-sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\LinkedinIntegration\\linkedin-sdk\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Azhar\\Android App Projects\\Alumni App\\linkedin-sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Azhar\\Android App Projects\\Alumni App\\linkedin-sdk\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

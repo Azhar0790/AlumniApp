@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sarps.alumni" >
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application
+        android:name=".app.AppController"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.sarps.alumni.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.sarps.alumni.Login_Email"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.sarps.alumni.Register"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name="com.sarps.alumni.DiyApproachActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.sarps.alumni.RaiseFundProfile"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.sarps.alumni.LaunchActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.sarps.alumni.Seek"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.sarps.alumni.OtherProfileActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.sarps.alumni.ProfileFillUpActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.sarps.alumni.ClassmatesActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name="com.sarps.alumni.AdvancedRegistration"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.sarps.alumni.OtpActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.sarps.alumni.Profile_form_twitter"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.sarps.alumni.BankDetailActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.sarps.alumni.MembershipActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.sarps.alumni.NewRequestActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.facebook.FacebookActivity"
+            android:configChanges=
+                "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:label="@string/app_name" />
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/app_id"/><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

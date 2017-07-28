@@ -1,0 +1,3786 @@
+[
+    {
+        "outputFile": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 47,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 49,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 49,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 49,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 49,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 62,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 62,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 58,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 58,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 60,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 60,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 66,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 66,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 62,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 62,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 71,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 71,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 71,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 71,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 73,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 73,
+                        "endOffset": 774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 73,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 779,
+                        "endColumn": 73,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 75,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 75,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 72,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 72,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 74,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 74,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 70,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 70,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endColumn": 78,
+                    "endOffset": 1222
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 78,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1227,
+                    "endColumn": 61,
+                    "endOffset": 1284
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endColumn": 61,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1289,
+                    "endColumn": 62,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 62,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 77,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 77,
+                        "endOffset": 1425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1430,
+                    "endColumn": 78,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1430,
+                        "endColumn": 78,
+                        "endOffset": 1504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1509,
+                    "endColumn": 92,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1509,
+                        "endColumn": 92,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endColumn": 92,
+                    "endOffset": 1690
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endColumn": 92,
+                        "endOffset": 1690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1695,
+                    "endColumn": 107,
+                    "endOffset": 1798
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1695,
+                        "endColumn": 107,
+                        "endOffset": 1798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1803,
+                    "endColumn": 107,
+                    "endOffset": 1906
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1803,
+                        "endColumn": 107,
+                        "endOffset": 1906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4216,
+                    "endColumn": 61,
+                    "endOffset": 4273
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4216,
+                        "endColumn": 61,
+                        "endOffset": 4273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4278,
+                    "endColumn": 67,
+                    "endOffset": 4341
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4278,
+                        "endColumn": 67,
+                        "endOffset": 4341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4346,
+                    "endColumn": 62,
+                    "endOffset": 4404
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4346,
+                        "endColumn": 62,
+                        "endOffset": 4404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4409,
+                    "endColumn": 64,
+                    "endOffset": 4469
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4409,
+                        "endColumn": 64,
+                        "endOffset": 4469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4474,
+                    "endColumn": 65,
+                    "endOffset": 4535
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4474,
+                        "endColumn": 65,
+                        "endOffset": 4535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4540,
+                    "endColumn": 66,
+                    "endOffset": 4602
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4540,
+                        "endColumn": 66,
+                        "endOffset": 4602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4607,
+                    "endColumn": 77,
+                    "endOffset": 4680
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4607,
+                        "endColumn": 77,
+                        "endOffset": 4680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4685,
+                    "endColumn": 89,
+                    "endOffset": 4770
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4685,
+                        "endColumn": 89,
+                        "endOffset": 4770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4775,
+                    "endColumn": 72,
+                    "endOffset": 4843
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4775,
+                        "endColumn": 72,
+                        "endOffset": 4843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4848,
+                    "endColumn": 68,
+                    "endOffset": 4912
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4848,
+                        "endColumn": 68,
+                        "endOffset": 4912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4917,
+                    "endColumn": 64,
+                    "endOffset": 4977
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4917,
+                        "endColumn": 64,
+                        "endOffset": 4977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4982,
+                    "endColumn": 67,
+                    "endOffset": 5045
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4982,
+                        "endColumn": 67,
+                        "endOffset": 5045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5050,
+                    "endColumn": 65,
+                    "endOffset": 5111
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 5050,
+                        "endColumn": 65,
+                        "endOffset": 5111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5116,
+                    "endColumn": 68,
+                    "endOffset": 5180
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 5116,
+                        "endColumn": 68,
+                        "endOffset": 5180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5185,
+                    "endColumn": 78,
+                    "endOffset": 5259
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5185,
+                        "endColumn": 78,
+                        "endOffset": 5259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5264,
+                    "endColumn": 69,
+                    "endOffset": 5329
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 5264,
+                        "endColumn": 69,
+                        "endOffset": 5329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5334,
+                    "endColumn": 72,
+                    "endOffset": 5402
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 5334,
+                        "endColumn": 72,
+                        "endOffset": 5402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5407,
+                    "endColumn": 73,
+                    "endOffset": 5476
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 5407,
+                        "endColumn": 73,
+                        "endOffset": 5476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5481,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 5676
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5481,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 5676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5681,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 5929
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5681,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 5929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5934,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 5968
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5934,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 5968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5973,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 6158
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5973,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 6158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6163,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 6760
+                },
+                "from": {
+                    "file": "D:\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6163,
+                        "endLine": 82,
+                        "endColumn": 12,
+                        "endOffset": 6760
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 47,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 49,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 49,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 49,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 49,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 62,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 62,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 58,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 58,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 60,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 60,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 66,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 66,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 62,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 62,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 71,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 71,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 71,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 71,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 73,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 73,
+                        "endOffset": 774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 73,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 779,
+                        "endColumn": 73,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 75,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 75,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 72,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 72,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 74,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 74,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 70,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 70,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endColumn": 78,
+                    "endOffset": 1222
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 78,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1227,
+                    "endColumn": 61,
+                    "endOffset": 1284
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endColumn": 61,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1289,
+                    "endColumn": 62,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 62,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 77,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 77,
+                        "endOffset": 1425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1430,
+                    "endColumn": 78,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1430,
+                        "endColumn": 78,
+                        "endOffset": 1504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1509,
+                    "endColumn": 92,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1509,
+                        "endColumn": 92,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endColumn": 92,
+                    "endOffset": 1690
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endColumn": 92,
+                        "endOffset": 1690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1695,
+                    "endColumn": 107,
+                    "endOffset": 1798
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1695,
+                        "endColumn": 107,
+                        "endOffset": 1798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1803,
+                    "endColumn": 107,
+                    "endOffset": 1906
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1803,
+                        "endColumn": 107,
+                        "endOffset": 1906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4133,
+                    "endColumn": 61,
+                    "endOffset": 4190
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 4133,
+                        "endColumn": 61,
+                        "endOffset": 4190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4195,
+                    "endColumn": 67,
+                    "endOffset": 4258
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 4195,
+                        "endColumn": 67,
+                        "endOffset": 4258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4263,
+                    "endColumn": 62,
+                    "endOffset": 4321
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 4263,
+                        "endColumn": 62,
+                        "endOffset": 4321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4326,
+                    "endColumn": 64,
+                    "endOffset": 4386
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 4326,
+                        "endColumn": 64,
+                        "endOffset": 4386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4391,
+                    "endColumn": 65,
+                    "endOffset": 4452
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 4391,
+                        "endColumn": 65,
+                        "endOffset": 4452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4457,
+                    "endColumn": 66,
+                    "endOffset": 4519
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 4457,
+                        "endColumn": 66,
+                        "endOffset": 4519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4524,
+                    "endColumn": 77,
+                    "endOffset": 4597
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 4524,
+                        "endColumn": 77,
+                        "endOffset": 4597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4602,
+                    "endColumn": 89,
+                    "endOffset": 4687
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4602,
+                        "endColumn": 89,
+                        "endOffset": 4687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4692,
+                    "endColumn": 72,
+                    "endOffset": 4760
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4692,
+                        "endColumn": 72,
+                        "endOffset": 4760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4765,
+                    "endColumn": 68,
+                    "endOffset": 4829
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4765,
+                        "endColumn": 68,
+                        "endOffset": 4829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4834,
+                    "endColumn": 64,
+                    "endOffset": 4894
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4834,
+                        "endColumn": 64,
+                        "endOffset": 4894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4899,
+                    "endColumn": 67,
+                    "endOffset": 4962
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4899,
+                        "endColumn": 67,
+                        "endOffset": 4962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4967,
+                    "endColumn": 65,
+                    "endOffset": 5028
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4967,
+                        "endColumn": 65,
+                        "endOffset": 5028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5033,
+                    "endColumn": 68,
+                    "endOffset": 5097
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 5033,
+                        "endColumn": 68,
+                        "endOffset": 5097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5102,
+                    "endColumn": 78,
+                    "endOffset": 5176
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 5102,
+                        "endColumn": 78,
+                        "endOffset": 5176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5181,
+                    "endColumn": 69,
+                    "endOffset": 5246
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 5181,
+                        "endColumn": 69,
+                        "endOffset": 5246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5251,
+                    "endColumn": 72,
+                    "endOffset": 5319
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 5251,
+                        "endColumn": 72,
+                        "endOffset": 5319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5324,
+                    "endColumn": 73,
+                    "endOffset": 5393
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 5324,
+                        "endColumn": 73,
+                        "endOffset": 5393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5398,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 5593
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 5398,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 5593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5598,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 5846
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 5598,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 5846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5851,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 5885
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5851,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 5885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5890,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 6075
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5890,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 6075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6080,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 6677
+                },
+                "from": {
+                    "file": "D:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 6080,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 6677
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 47,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 49,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 49,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 49,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 49,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 62,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 62,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 58,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 58,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 60,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 60,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 66,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 66,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 62,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 62,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 71,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 71,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 71,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 71,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 73,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 73,
+                        "endOffset": 774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 73,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 779,
+                        "endColumn": 73,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 75,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 75,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 72,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 72,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 74,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 74,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 70,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 70,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endColumn": 78,
+                    "endOffset": 1222
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 78,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1227,
+                    "endColumn": 61,
+                    "endOffset": 1284
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endColumn": 61,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1289,
+                    "endColumn": 62,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 62,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 77,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 77,
+                        "endOffset": 1425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1430,
+                    "endColumn": 78,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1430,
+                        "endColumn": 78,
+                        "endOffset": 1504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1509,
+                    "endColumn": 92,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1509,
+                        "endColumn": 92,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endColumn": 92,
+                    "endOffset": 1690
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endColumn": 92,
+                        "endOffset": 1690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1695,
+                    "endColumn": 107,
+                    "endOffset": 1798
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1695,
+                        "endColumn": 107,
+                        "endOffset": 1798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1803,
+                    "endColumn": 107,
+                    "endOffset": 1906
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1803,
+                        "endColumn": 107,
+                        "endOffset": 1906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4216,
+                    "endColumn": 61,
+                    "endOffset": 4273
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4216,
+                        "endColumn": 61,
+                        "endOffset": 4273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4278,
+                    "endColumn": 67,
+                    "endOffset": 4341
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4278,
+                        "endColumn": 67,
+                        "endOffset": 4341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4346,
+                    "endColumn": 62,
+                    "endOffset": 4404
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4346,
+                        "endColumn": 62,
+                        "endOffset": 4404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4409,
+                    "endColumn": 64,
+                    "endOffset": 4469
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4409,
+                        "endColumn": 64,
+                        "endOffset": 4469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4474,
+                    "endColumn": 65,
+                    "endOffset": 4535
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4474,
+                        "endColumn": 65,
+                        "endOffset": 4535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4540,
+                    "endColumn": 66,
+                    "endOffset": 4602
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4540,
+                        "endColumn": 66,
+                        "endOffset": 4602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4607,
+                    "endColumn": 77,
+                    "endOffset": 4680
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4607,
+                        "endColumn": 77,
+                        "endOffset": 4680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4685,
+                    "endColumn": 89,
+                    "endOffset": 4770
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4685,
+                        "endColumn": 89,
+                        "endOffset": 4770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4775,
+                    "endColumn": 72,
+                    "endOffset": 4843
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4775,
+                        "endColumn": 72,
+                        "endOffset": 4843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4848,
+                    "endColumn": 68,
+                    "endOffset": 4912
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4848,
+                        "endColumn": 68,
+                        "endOffset": 4912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4917,
+                    "endColumn": 64,
+                    "endOffset": 4977
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4917,
+                        "endColumn": 64,
+                        "endOffset": 4977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4982,
+                    "endColumn": 67,
+                    "endOffset": 5045
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4982,
+                        "endColumn": 67,
+                        "endOffset": 5045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5050,
+                    "endColumn": 65,
+                    "endOffset": 5111
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 5050,
+                        "endColumn": 65,
+                        "endOffset": 5111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5116,
+                    "endColumn": 68,
+                    "endOffset": 5180
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 5116,
+                        "endColumn": 68,
+                        "endOffset": 5180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5185,
+                    "endColumn": 78,
+                    "endOffset": 5259
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5185,
+                        "endColumn": 78,
+                        "endOffset": 5259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5264,
+                    "endColumn": 69,
+                    "endOffset": 5329
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 5264,
+                        "endColumn": 69,
+                        "endOffset": 5329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5334,
+                    "endColumn": 72,
+                    "endOffset": 5402
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 5334,
+                        "endColumn": 72,
+                        "endOffset": 5402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5407,
+                    "endColumn": 73,
+                    "endOffset": 5476
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 5407,
+                        "endColumn": 73,
+                        "endOffset": 5476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5481,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 5676
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5481,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 5676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5681,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 5929
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5681,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 5929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5934,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 5968
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5934,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 5968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5973,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 6158
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5973,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 6158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6163,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 6760
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\LoopingViewPagerDemo-master\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6163,
+                        "endLine": 82,
+                        "endColumn": 12,
+                        "endOffset": 6760
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 47,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 49,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 49,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 49,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 49,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 62,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 62,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 58,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 58,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 60,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 60,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 66,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 66,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 62,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 62,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 71,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 71,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 71,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 71,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 73,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 73,
+                        "endOffset": 774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 73,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 779,
+                        "endColumn": 73,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 75,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 75,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 72,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 72,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 74,
+                    "endOffset": 1072
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 74,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1077,
+                    "endColumn": 70,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 70,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endColumn": 78,
+                    "endOffset": 1222
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 78,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1227,
+                    "endColumn": 61,
+                    "endOffset": 1284
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endColumn": 61,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1289,
+                    "endColumn": 62,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 62,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 77,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 77,
+                        "endOffset": 1425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1430,
+                    "endColumn": 78,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1430,
+                        "endColumn": 78,
+                        "endOffset": 1504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1509,
+                    "endColumn": 92,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1509,
+                        "endColumn": 92,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endColumn": 92,
+                    "endOffset": 1690
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endColumn": 92,
+                        "endOffset": 1690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1695,
+                    "endColumn": 107,
+                    "endOffset": 1798
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1695,
+                        "endColumn": 107,
+                        "endOffset": 1798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1803,
+                    "endColumn": 107,
+                    "endOffset": 1906
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1803,
+                        "endColumn": 107,
+                        "endOffset": 1906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4133,
+                    "endColumn": 61,
+                    "endOffset": 4190
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 4133,
+                        "endColumn": 61,
+                        "endOffset": 4190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4195,
+                    "endColumn": 67,
+                    "endOffset": 4258
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 4195,
+                        "endColumn": 67,
+                        "endOffset": 4258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4263,
+                    "endColumn": 62,
+                    "endOffset": 4321
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 4263,
+                        "endColumn": 62,
+                        "endOffset": 4321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4326,
+                    "endColumn": 64,
+                    "endOffset": 4386
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 4326,
+                        "endColumn": 64,
+                        "endOffset": 4386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4391,
+                    "endColumn": 65,
+                    "endOffset": 4452
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 4391,
+                        "endColumn": 65,
+                        "endOffset": 4452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4457,
+                    "endColumn": 66,
+                    "endOffset": 4519
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 4457,
+                        "endColumn": 66,
+                        "endOffset": 4519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4524,
+                    "endColumn": 77,
+                    "endOffset": 4597
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 4524,
+                        "endColumn": 77,
+                        "endOffset": 4597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4602,
+                    "endColumn": 89,
+                    "endOffset": 4687
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4602,
+                        "endColumn": 89,
+                        "endOffset": 4687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4692,
+                    "endColumn": 72,
+                    "endOffset": 4760
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4692,
+                        "endColumn": 72,
+                        "endOffset": 4760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4765,
+                    "endColumn": 68,
+                    "endOffset": 4829
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4765,
+                        "endColumn": 68,
+                        "endOffset": 4829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4834,
+                    "endColumn": 64,
+                    "endOffset": 4894
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4834,
+                        "endColumn": 64,
+                        "endOffset": 4894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4899,
+                    "endColumn": 67,
+                    "endOffset": 4962
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4899,
+                        "endColumn": 67,
+                        "endOffset": 4962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4967,
+                    "endColumn": 65,
+                    "endOffset": 5028
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4967,
+                        "endColumn": 65,
+                        "endOffset": 5028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5033,
+                    "endColumn": 68,
+                    "endOffset": 5097
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 5033,
+                        "endColumn": 68,
+                        "endOffset": 5097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5102,
+                    "endColumn": 78,
+                    "endOffset": 5176
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 5102,
+                        "endColumn": 78,
+                        "endOffset": 5176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5181,
+                    "endColumn": 69,
+                    "endOffset": 5246
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 5181,
+                        "endColumn": 69,
+                        "endOffset": 5246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5251,
+                    "endColumn": 72,
+                    "endOffset": 5319
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 5251,
+                        "endColumn": 72,
+                        "endOffset": 5319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5324,
+                    "endColumn": 73,
+                    "endOffset": 5393
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 5324,
+                        "endColumn": 73,
+                        "endOffset": 5393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5398,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 5593
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 5398,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 5593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5598,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 5846
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 5598,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 5846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5851,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 5885
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5851,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 5885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5890,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 6075
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5890,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 6075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6080,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 6677
+                },
+                "from": {
+                    "file": "E:\\Azhar\\Android App Projects\\Alumni App\\viewpagerindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 6080,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 6677
+                    }
+                }
+            }
+        ]
+    }
+]
